@@ -1,4 +1,4 @@
-package com.example.servingwebcontent;
+package com.cb.employee;
 import org.springframework.data.repository.CrudRepository;
 
 // This will be AUTO IMPLEMENTED by Spring into a Bean called userRepository

@@ -1,4 +1,4 @@
-package com.example.servingwebcontent;
+package com.cb.employee;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

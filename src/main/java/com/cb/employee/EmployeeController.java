@@ -1,4 +1,4 @@
-package com.example.servingwebcontent;
+package com.cb.employee;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
